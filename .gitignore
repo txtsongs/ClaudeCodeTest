@@ -9,3 +9,7 @@ desktop.ini
 
 # Logs
 *.log
+
+# Claude Code session data (project settings ARE tracked)
+.claude/*
+!.claude/settings.json
